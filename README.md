@@ -1,1 +1,4 @@
-# NITTTR_27_March
+# NITTTR_27_March 2019
+Soft Computing techniques for Predictive maintenance
+NITTTR, Chandigarh
+27th March 2019
